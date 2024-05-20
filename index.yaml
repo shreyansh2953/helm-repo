@@ -6,7 +6,7 @@ entries:
         - "[Changed]: Update redis-ha"
     apiVersion: v2
     appVersion: v2.5.1
-    created: "2024-04-25T12:47:13.5587043+05:30"
+    created: "2024-05-20T16:12:26.9063832+05:30"
     dependencies:
     - condition: redis-ha.enabled
       name: redis-ha
@@ -32,4 +32,4 @@ entries:
     urls:
     - https://github.com/shreyansh2953/helm-repo/argo-cd-5.13.2.tgz
     version: 5.13.2
-generated: "2024-04-25T12:47:13.5484174+05:30"
+generated: "2024-05-20T16:12:26.8950362+05:30"
